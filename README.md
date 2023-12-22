@@ -34,11 +34,3 @@ in the "extra" segment, add this line of text after adding 4 spaces:
 incl Extensions/Name.lua (Requires an "Extensions" Folder in the same folder as you're code)
 
 to execute, your file must be named "pxlcode.pxl" or replicate the template.
-
-Once creating a PXL file, you should paste the following into the file:
-segment"var"{
-}
-segment"code"{
-}
-segment"extra"{
-}
