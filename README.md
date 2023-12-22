@@ -16,12 +16,10 @@ You can also change 0 to numbers 10 characters long!
 How to use "prnt"
 
 in the "code" segment, add these lines of text after adding 4 spaces:
-
-String: prnt(sring)
+String: prnt(string)
 Variable: prnt(var:num)
 
 How to add and subtract to and from a variable:
-
 in the "code" segment, add these lines of text after adding 4 spaces:
 
 addv(var:num)
@@ -30,7 +28,6 @@ subv(var:num)
 How to include an extension:
 
 in the "extra" segment, add this line of text after adding 4 spaces:
-
 incl Extensions/Name.lua (Requires an "Extensions" Folder in the same folder as you're code)
 
 to execute, your file must be named "pxlcode.pxl" or replicate the template.
